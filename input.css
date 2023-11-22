@@ -9,10 +9,10 @@ body {
   background-position: 90% -25%;
 }
 
-#cta {
+/* #cta {
   background-image: url("../img/bg-simplify-section-desktop.svg");
   background-repeat: no-repeat;
-}
+} */
 
 @media (max-width: 576px) {
   body {
@@ -20,9 +20,9 @@ body {
     background-size: 500px;
   }
 
-  #cta {
+  /* #cta {
     background-image: url("../img/bg-simplify-section-mobile.svg");
-  }
+  } */
 }
 
 /* Hamburger Menu */
